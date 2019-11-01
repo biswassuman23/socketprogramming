@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\bin\Release\FT_Client1.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\bin\Release\FT_Client1.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\obj\Release\FT_Client1.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\obj\Release\FT_Client1.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\bin\Debug\FT_Client1.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\bin\Debug\FT_Client1.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\obj\Debug\FT_Client1.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\FT_Client1\FT_Client1\obj\Debug\FT_Client1.pdb
+C:\Documents and Settings\Administrator\My Documents\Blog\File for Rapidshare\File_Transfer__DLL_-_Client_and_Server\FT_Client1\FT_Client1\bin\Release\FT_Client1.dll
+C:\Documents and Settings\Administrator\My Documents\Blog\File for Rapidshare\File_Transfer__DLL_-_Client_and_Server\FT_Client1\FT_Client1\bin\Release\FT_Client1.pdb
+C:\Documents and Settings\Administrator\My Documents\Blog\File for Rapidshare\File_Transfer__DLL_-_Client_and_Server\FT_Client1\FT_Client1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Blog\File for Rapidshare\File_Transfer__DLL_-_Client_and_Server\FT_Client1\FT_Client1\obj\Release\FT_Client1.dll
+C:\Documents and Settings\Administrator\My Documents\Blog\File for Rapidshare\File_Transfer__DLL_-_Client_and_Server\FT_Client1\FT_Client1\obj\Release\FT_Client1.pdb
